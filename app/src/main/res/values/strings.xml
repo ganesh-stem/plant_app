@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verdant</string>
+
+    <!-- Common -->
+    <string name="action_back">Back</string>
+    <string name="action_close">Close</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_retry">Try again</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_share">Share</string>
+    <string name="action_see_all">See all</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_history">History</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get started</string>
+    <string name="onboarding_title_1">Know every plant\nyou meet</string>
+    <string name="onboarding_body_1">Snap a leaf, flower or whole plant and Verdant identifies it in seconds — right on your phone.</string>
+    <string name="onboarding_title_2">Catch problems\nbefore they spread</string>
+    <string name="onboarding_body_2">A second AI model checks for diseases, pests and deficiencies, and tells you how serious they are.</string>
+    <string name="onboarding_title_3">Care like\na botanist</string>
+    <string name="onboarding_body_3">Get step-by-step treatments, prevention tips and a care guide for light, water and soil.</string>
+    <string name="onboarding_privacy">Photos are analysed on-device and never uploaded.</string>
+
+    <!-- Home -->
+    <string name="home_greeting_morning">Good morning</string>
+    <string name="home_greeting_afternoon">Good afternoon</string>
+    <string name="home_greeting_evening">Good evening</string>
+    <string name="home_subtitle">Let\'s check on your plants</string>
+    <string name="home_hero_eyebrow">AI plant doctor</string>
+    <string name="home_hero_title">Identify &amp; diagnose any plant</string>
+    <string name="home_hero_scan">Scan a plant</string>
+    <string name="home_hero_upload">Upload photo</string>
+    <string name="home_stat_scans">Scans</string>
+    <string name="home_stat_healthy">Healthy</string>
+    <string name="home_stat_attention">Need care</string>
+    <string name="home_how_title">How it works</string>
+    <string name="home_step_snap">Snap</string>
+    <string name="home_step_snap_body">Photograph a leaf or plant</string>
+    <string name="home_step_identify">Identify</string>
+    <string name="home_step_identify_body">Model 1 names the species</string>
+    <string name="home_step_diagnose">Diagnose</string>
+    <string name="home_step_diagnose_body">Model 2 checks its health</string>
+    <string name="home_recent_title">Recent scans</string>
+    <string name="home_tip_title">Tip of the day</string>
+    <string name="home_empty_recent">Your scans will appear here. Start by scanning your first plant!</string>
+
+    <!-- Camera -->
+    <string name="camera_hint">Centre a leaf or plant in the frame</string>
+    <string name="camera_capture">Take photo</string>
+    <string name="camera_gallery">Choose from gallery</string>
+    <string name="camera_flip">Switch camera</string>
+    <string name="camera_flash_off">Flash off</string>
+    <string name="camera_flash_on">Flash on</string>
+    <string name="camera_flash_auto">Flash auto</string>
+    <string name="camera_tips">Tips: use natural light · keep it in focus · fill the frame</string>
+    <string name="camera_permission_title">Let Verdant see your plants</string>
+    <string name="camera_permission_body">Camera access is needed to photograph plants. Photos stay on your device.</string>
+    <string name="camera_permission_denied_body">Camera access is turned off. You can enable it in system settings, or pick a photo from your gallery instead.</string>
+    <string name="camera_permission_grant">Allow camera</string>
+    <string name="camera_permission_settings">Open settings</string>
+    <string name="camera_error">Couldn\'t take the photo. Please try again.</string>
+    <string name="camera_unavailable">No camera is available on this device.</string>
+
+    <!-- Analysis -->
+    <string name="analysis_title">Analysing your plant</string>
+    <string name="analysis_subtitle">This only takes a moment</string>
+    <string name="analysis_stage_preparing">Preparing photo</string>
+    <string name="analysis_stage_identifying">Identifying plant</string>
+    <string name="analysis_stage_identifying_detail">Species model · stage 1</string>
+    <string name="analysis_stage_diagnosing">Checking plant health</string>
+    <string name="analysis_stage_diagnosing_detail">Disease model · stage 2</string>
+    <string name="analysis_stage_saving">Building your report</string>
+    <string name="analysis_no_plant_title">We couldn\'t find a plant</string>
+    <string name="analysis_no_plant_body">Try a clearer photo with one plant filling most of the frame, in good light.</string>
+    <string name="analysis_no_plant_guess">Best guess: %1$s (%2$s) — too uncertain to show.</string>
+    <string name="analysis_error_image">We couldn\'t read that photo. Try a different image.</string>
+    <string name="analysis_error_model">The AI model ran into a problem. Please try again.</string>
+    <string name="analysis_error_storage">Couldn\'t save your scan. Free up some space and try again.</string>
+    <string name="analysis_new_photo">Use another photo</string>
+
+    <!-- Result -->
+    <string name="result_match">match</string>
+    <string name="result_demo_banner">Demo mode — results are simulated until real AI models are added.</string>
+    <string name="result_health_title">Plant health</string>
+    <string name="result_healthy_title">Looks healthy!</string>
+    <string name="result_healthy_body">No signs of disease or pests were detected. Keep up the good care.</string>
+    <string name="result_unknown_title">Health check unavailable</string>
+    <string name="result_unknown_body">We identified the plant but couldn\'t assess its health this time. Try another photo of the leaves.</string>
+    <string name="result_possible">Possible</string>
+    <string name="result_confidence">%1$s confidence</string>
+    <string name="result_severity">Severity</string>
+    <string name="result_contagious">Contagious</string>
+    <string name="result_not_contagious">Not contagious</string>
+    <string name="result_tab_symptoms">Symptoms</string>
+    <string name="result_tab_treatment">Treatment</string>
+    <string name="result_tab_prevention">Prevention</string>
+    <string name="result_about">About this plant</string>
+    <string name="result_fun_fact">Did you know?</string>
+    <string name="result_care_title">Care guide</string>
+    <string name="result_care_water">Water</string>
+    <string name="result_care_light">Light</string>
+    <string name="result_care_temperature">Temperature</string>
+    <string name="result_care_humidity">Humidity</string>
+    <string name="result_care_soil">Soil</string>
+    <string name="result_care_fertilizer">Fertiliser</string>
+    <string name="result_toxicity">Toxicity</string>
+    <string name="result_no_details">Detailed care information for this plant isn\'t available yet.</string>
+    <string name="result_alternatives">Other possible matches</string>
+    <string name="result_disclaimer">AI results can be wrong. For valuable plants or crops, confirm with a local nursery or agricultural extension service before treating.</string>
+    <string name="result_scan_another">Scan another plant</string>
+    <string name="result_favorite_add">Add to favourites</string>
+    <string name="result_favorite_remove">Remove from favourites</string>
+    <string name="result_delete_title">Delete this scan?</string>
+    <string name="result_delete_body">The photo and diagnosis will be permanently removed.</string>
+    <string name="result_not_found">This scan no longer exists.</string>
+    <string name="result_share_healthy">%1$s (%2$s) — looks healthy 🌿</string>
+    <string name="result_share_diseased">%1$s (%2$s) — possible %3$s</string>
+    <string name="result_share_footer">Identified with Verdant</string>
+    <string name="result_alternatives_scanned_on">Scanned %1$s</string>
+
+    <!-- Difficulty / severity / pathogen -->
+    <string name="difficulty_easy">Easy care</string>
+    <string name="difficulty_moderate">Moderate care</string>
+    <string name="difficulty_expert">Expert care</string>
+    <string name="severity_low">Low</string>
+    <string name="severity_moderate">Moderate</string>
+    <string name="severity_high">High</string>
+    <string name="pathogen_fungal">Fungal</string>
+    <string name="pathogen_bacterial">Bacterial</string>
+    <string name="pathogen_viral">Viral</string>
+    <string name="pathogen_oomycete">Water mould</string>
+    <string name="pathogen_pest">Pest</string>
+    <string name="pathogen_nutrient">Nutrient</string>
+    <string name="pathogen_environmental">Environmental</string>
+    <string name="pathogen_unknown">Unknown cause</string>
+    <string name="status_healthy">Healthy</string>
+    <string name="status_attention">Needs care</string>
+    <string name="status_unknown">Unchecked</string>
+
+    <!-- History -->
+    <string name="history_title">Your garden</string>
+    <plurals name="history_subtitle">
+        <item quantity="one">%1$d scan</item>
+        <item quantity="other">%1$d scans</item>
+    </plurals>
+    <string name="history_search">Search plants or diseases</string>
+    <string name="history_clear_search">Clear search</string>
+    <string name="history_filter_all">All</string>
+    <string name="history_filter_healthy">Healthy</string>
+    <string name="history_filter_attention">Needs care</string>
+    <string name="history_filter_favorites">Favourites</string>
+    <string name="history_today">Today</string>
+    <string name="history_yesterday">Yesterday</string>
+    <string name="history_this_week">This week</string>
+    <string name="history_earlier">Earlier</string>
+    <string name="history_empty_title">No scans yet</string>
+    <string name="history_empty_body">Every plant you scan is saved here, so you can track its health over time.</string>
+    <string name="history_no_results_title">Nothing matches</string>
+    <string name="history_no_results_body">Try a different search or filter.</string>
+    <string name="history_deleted">Scan deleted</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_dynamic_color">Dynamic colour</string>
+    <string name="settings_dynamic_color_body">Match your wallpaper colours</string>
+    <string name="settings_dynamic_color_unsupported">Requires Android 12 or newer</string>
+    <string name="settings_models">AI models</string>
+    <string name="settings_model_placeholder">Placeholder · simulated results</string>
+    <string name="settings_model_loaded">On-device · %1$s</string>
+    <plurals name="settings_model_classes">
+        <item quantity="one">%1$d class</item>
+        <item quantity="other">%1$d classes</item>
+    </plurals>
+    <string name="settings_models_hint">Add plant_identifier.tflite and disease_detector.tflite (with label files) to assets/models to enable real predictions.</string>
+    <string name="settings_data">Your data</string>
+    <string name="settings_clear_history">Clear scan history</string>
+    <string name="settings_clear_history_body">Delete all scans and photos</string>
+    <string name="settings_clear_confirm_title">Clear all scans?</string>
+    <string name="settings_clear_confirm_body">This permanently deletes every scan and photo. This can\'t be undone.</string>
+    <string name="settings_cleared">History cleared</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_privacy">Privacy</string>
+    <string name="settings_privacy_body">All analysis runs on your device. Photos are never uploaded.</string>
+    <string name="settings_replay_onboarding">Replay introduction</string>
+    <string name="settings_disclaimer">Verdant gives guidance, not professional advice. Always confirm serious diagnoses with an expert.</string>
+
+    <string-array name="daily_tips">
+        <item>Water in the morning so leaves dry before evening — damp foliage overnight invites fungus.</item>
+        <item>Yellow lower leaves often mean overwatering. Check the soil before you reach for the can.</item>
+        <item>Rotate houseplants a quarter turn every week for even, upright growth.</item>
+        <item>Wipe dusty leaves with a damp cloth — clean leaves photosynthesise better.</item>
+        <item>Quarantine new plants for two weeks to stop pests hitching a ride.</item>
+        <item>Brown, crispy tips usually point to low humidity or inconsistent watering.</item>
+        <item>Sterilise pruning shears between plants to avoid spreading disease.</item>
+        <item>Most houseplants need less water in winter when growth slows down.</item>
+    </string-array>
+</resources>

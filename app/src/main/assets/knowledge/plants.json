@@ -1,0 +1,211 @@
+[
+  {
+    "id": "monstera_deliciosa",
+    "commonName": "Monstera",
+    "scientificName": "Monstera deliciosa",
+    "family": "Araceae",
+    "aliases": ["swiss_cheese_plant", "monstera"],
+    "description": "A tropical climber famous for its glossy, split leaves. Native to the rainforests of southern Mexico, it grows fast and makes a dramatic statement indoors.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "Every 1–2 weeks, when the top 5 cm of soil is dry",
+      "light": "Bright, indirect light",
+      "temperature": "18–29 °C",
+      "humidity": "Medium to high (50%+)",
+      "soil": "Chunky, well-draining aroid mix",
+      "fertilizer": "Monthly in spring and summer"
+    },
+    "toxicity": "Toxic to pets if chewed",
+    "funFact": "The holes (fenestrations) may help the leaves withstand strong winds and let light reach lower leaves."
+  },
+  {
+    "id": "ficus_lyrata",
+    "commonName": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "family": "Moraceae",
+    "aliases": ["fiddle_leaf_fig", "fiddle_leaf"],
+    "description": "A sculptural indoor tree with large, violin-shaped leaves. It loves consistency and will reward a stable spot with lush growth.",
+    "difficulty": "MODERATE",
+    "care": {
+      "water": "Weekly, when the top 3–5 cm of soil is dry",
+      "light": "Bright, filtered light; some direct morning sun",
+      "temperature": "16–27 °C",
+      "humidity": "Medium (40–60%)",
+      "soil": "Well-draining indoor potting mix",
+      "fertilizer": "Every 4 weeks during the growing season"
+    },
+    "toxicity": "Mildly toxic to pets",
+    "funFact": "Fiddle leaf figs dislike being moved and may drop leaves after a change of location."
+  },
+  {
+    "id": "epipremnum_aureum",
+    "commonName": "Golden Pothos",
+    "scientificName": "Epipremnum aureum",
+    "family": "Araceae",
+    "aliases": ["pothos", "golden_pothos", "devils_ivy"],
+    "description": "A forgiving trailing vine with heart-shaped, gold-marbled leaves. Perfect for shelves and hanging baskets.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "Every 1–2 weeks; let soil dry halfway",
+      "light": "Low to bright indirect light",
+      "temperature": "15–30 °C",
+      "humidity": "Average household humidity",
+      "soil": "General-purpose potting mix",
+      "fertilizer": "Every 6–8 weeks in spring and summer"
+    },
+    "toxicity": "Toxic to pets and humans if ingested",
+    "funFact": "Pothos is nearly impossible to kill and stays green even in darker rooms."
+  },
+  {
+    "id": "dracaena_trifasciata",
+    "commonName": "Snake Plant",
+    "scientificName": "Dracaena trifasciata",
+    "family": "Asparagaceae",
+    "aliases": ["snake_plant", "sansevieria", "sansevieria_trifasciata", "mother_in_laws_tongue"],
+    "description": "Upright, sword-like leaves with striking banding. Extremely drought tolerant and a classic choice for beginners.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "Every 2–4 weeks; let soil dry fully",
+      "light": "Low to bright indirect light",
+      "temperature": "15–29 °C",
+      "humidity": "Low to average",
+      "soil": "Cactus or succulent mix",
+      "fertilizer": "2–3 times per year"
+    },
+    "toxicity": "Mildly toxic to pets",
+    "funFact": "Snake plants use CAM photosynthesis, opening their pores at night to save water."
+  },
+  {
+    "id": "spathiphyllum_wallisii",
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum wallisii",
+    "family": "Araceae",
+    "aliases": ["peace_lily", "spathiphyllum"],
+    "description": "Elegant dark-green foliage with white, hood-like blooms. It droops dramatically when thirsty and perks up quickly after watering.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "Weekly; keep soil lightly moist",
+      "light": "Medium to low indirect light",
+      "temperature": "18–27 °C",
+      "humidity": "High (50%+)",
+      "soil": "Rich, peat-based potting mix",
+      "fertilizer": "Every 6 weeks in spring and summer"
+    },
+    "toxicity": "Toxic to pets",
+    "funFact": "The white 'flower' is actually a modified leaf called a spathe."
+  },
+  {
+    "id": "aloe_vera",
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "family": "Asphodelaceae",
+    "aliases": ["aloe", "aloe_barbadensis"],
+    "description": "A succulent with thick, gel-filled leaves, prized for its soothing sap. Thrives on neglect and sunshine.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "Every 3 weeks; less in winter",
+      "light": "Bright light with some direct sun",
+      "temperature": "13–27 °C",
+      "humidity": "Low",
+      "soil": "Gritty cactus mix",
+      "fertilizer": "Once in spring"
+    },
+    "toxicity": "Toxic to pets if eaten",
+    "funFact": "Aloe has been used medicinally for more than 6,000 years."
+  },
+  {
+    "id": "rosa",
+    "commonName": "Garden Rose",
+    "scientificName": "Rosa spp.",
+    "family": "Rosaceae",
+    "aliases": ["rose", "roses"],
+    "description": "The classic flowering shrub, loved for its fragrant blooms in countless colours. Needs sun, air flow, and regular feeding.",
+    "difficulty": "MODERATE",
+    "care": {
+      "water": "Deeply 2–3 times per week in summer",
+      "light": "Full sun (6+ hours)",
+      "temperature": "15–26 °C",
+      "humidity": "Moderate, with good air circulation",
+      "soil": "Rich, loamy, slightly acidic soil",
+      "fertilizer": "Every 2–4 weeks during bloom season"
+    },
+    "toxicity": "Non-toxic (watch out for thorns)",
+    "funFact": "The oldest known living rose is thought to be about 1,000 years old, growing on a cathedral in Germany."
+  },
+  {
+    "id": "ocimum_basilicum",
+    "commonName": "Sweet Basil",
+    "scientificName": "Ocimum basilicum",
+    "family": "Lamiaceae",
+    "aliases": ["basil", "sweet_basil"],
+    "description": "A fragrant culinary herb with tender, bright-green leaves. Pinch flower buds to keep it bushy and productive.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "Keep soil evenly moist; water at the base",
+      "light": "Full sun (6–8 hours)",
+      "temperature": "18–30 °C",
+      "humidity": "Moderate",
+      "soil": "Fertile, well-draining soil",
+      "fertilizer": "Light feed every 3–4 weeks"
+    },
+    "toxicity": "Non-toxic",
+    "funFact": "Basil is part of the mint family, which is why its stems are square."
+  },
+  {
+    "id": "solanum_lycopersicum",
+    "commonName": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "aliases": ["tomato", "tomatoes"],
+    "description": "A productive fruiting vegetable that loves heat. Consistent watering and good air flow are key to healthy, tasty fruit.",
+    "difficulty": "MODERATE",
+    "care": {
+      "water": "Deep, consistent watering 2–3 times per week",
+      "light": "Full sun (8+ hours)",
+      "temperature": "21–29 °C",
+      "humidity": "Moderate; avoid wet leaves",
+      "soil": "Rich, well-draining soil, pH 6.2–6.8",
+      "fertilizer": "Balanced feed, then high-potassium when fruiting"
+    },
+    "toxicity": "Leaves and stems are toxic to pets",
+    "funFact": "Botanically, a tomato is a berry."
+  },
+  {
+    "id": "solanum_tuberosum",
+    "commonName": "Potato",
+    "scientificName": "Solanum tuberosum",
+    "family": "Solanaceae",
+    "aliases": ["potato", "potatoes"],
+    "description": "A cool-season crop grown for its starchy tubers. Hilling soil around the stems protects tubers from light.",
+    "difficulty": "EASY",
+    "care": {
+      "water": "2–5 cm per week; consistent moisture",
+      "light": "Full sun",
+      "temperature": "15–21 °C",
+      "humidity": "Moderate",
+      "soil": "Loose, slightly acidic soil",
+      "fertilizer": "At planting and when hilling"
+    },
+    "toxicity": "Green parts are toxic",
+    "funFact": "Potatoes were the first vegetable grown in space, in 1995."
+  },
+  {
+    "id": "capsicum_annuum",
+    "commonName": "Bell Pepper",
+    "scientificName": "Capsicum annuum",
+    "family": "Solanaceae",
+    "aliases": ["pepper", "bell_pepper", "pepper_bell"],
+    "description": "A warm-season vegetable producing sweet, crunchy fruit that ripens from green to red, yellow, or orange.",
+    "difficulty": "MODERATE",
+    "care": {
+      "water": "1–2 times per week; keep evenly moist",
+      "light": "Full sun (6–8 hours)",
+      "temperature": "21–29 °C",
+      "humidity": "Moderate",
+      "soil": "Fertile, well-draining soil",
+      "fertilizer": "Every 2–3 weeks once flowering"
+    },
+    "toxicity": "Non-toxic",
+    "funFact": "Red bell peppers are simply green peppers left to ripen longer."
+  }
+]
